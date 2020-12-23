@@ -1,1 +1,6 @@
 /certs/*.pdf
+credentials.json
+token.pickle
+.ipynb_checkpoints
+!testing_list.csv
+*.csv
